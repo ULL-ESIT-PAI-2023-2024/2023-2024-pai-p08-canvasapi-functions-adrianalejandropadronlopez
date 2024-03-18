@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/home-work/Functions/grid.ts",
+    "./src/home-work/Functions/functions_to_draw.ts",
+  ],
+  "out": "./src/home-work/Documentation"
+}
